@@ -1,0 +1,19 @@
+[0123/172838.440:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0123/173028.086:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0123/173028.168:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0123/173511.186:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0123/173511.300:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0123/173617.419:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0123/173617.532:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0123/173842.204:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0123/191812.795:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0123/192012.505:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0123/192012.584:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0123/192233.393:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0123/192233.459:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0123/192515.549:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0123/192740.260:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0123/193142.877:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0123/195422.337:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0125/164514.182:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0211/154425.116:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)

@@ -1,0 +1,13 @@
+16/06/2021 23:14:23 devpinoyLogger Config properties loaded!!!!
+16/06/2021 23:14:23 devpinoyLogger OR properties loaded!!!!
+16/06/2021 23:14:27 devpinoyLogger chrome launched!!!
+16/06/2021 23:14:31 devpinoyLogger Navigate to  :   http://www.way2automation.com/angularjs-protractor/banking/#/login
+16/06/2021 23:14:31 devpinoyLogger Inside loginAsBankManagerTest
+16/06/2021 23:14:31 devpinoyLogger loginAsBankManagerTest successfully executed
+16/06/2021 23:14:32 devpinoyLogger Inside AddCustomerTest
+16/06/2021 23:14:34 devpinoyLogger AddCustomerTest successfully executed
+16/06/2021 23:14:34 devpinoyLogger Inside AddCustomerTest
+16/06/2021 23:14:35 devpinoyLogger AddCustomerTest successfully executed
+16/06/2021 23:14:35 devpinoyLogger Inside AddCustomerTest
+16/06/2021 23:14:36 devpinoyLogger AddCustomerTest successfully executed
+16/06/2021 23:14:39 devpinoyLogger All Testcases execution successfully completed.
